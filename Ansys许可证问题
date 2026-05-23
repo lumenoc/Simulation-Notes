@@ -1,0 +1,13 @@
+在ansys安装过程中，如果遇到
+
+ANSYS LICENSE MANAGER ERROR
+
+Request name ansys does not exist in the licensing poolInvalid (inconsistent) license key.The license key and data for the feature do not match.This usually happens when a license file has been altered.
+
+Feature.ansys
+
+License path1055@localhost
+
+FlexNet Licensing error-8.544问题
+
+可将把原压缩包中的ANSYS Inc 完全复制到安装路径中的 ANSYS Inc。也就是说ANSYS Inc->ANSYS Inc 而不是老外readme.txt里的复制那两个文件，最好c盘的和安装目录的都覆盖一遍。
